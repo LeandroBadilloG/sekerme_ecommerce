@@ -1,0 +1,9 @@
+# PRESENTATION
+
+En CLEAN ARCHITECTURE, la capa de presentación es la capa más externa y es responsable de mostrar información al usuario y de recibir su entrada. También es conocida como la capa de interfaz de usuario (UI). Esta capa se comunica con las capas internas de la aplicación, como la capa de lógica de negocio y la capa de acceso a datos, para obtener y enviar información.
+
+Un ejemplo de la capa de presentación en una aplicación web podría ser la interfaz de usuario que se muestra en el navegador. Esta interfaz puede incluir elementos de la página como botones, campos de entrada de texto, listas y tablas, que se utilizan para interactuar con la aplicación. La capa de presentación en este caso se encarga de interpretar las acciones del usuario en la página y transmitir esa información a la capa de lógica de negocio de la aplicación.
+
+En una aplicación de escritorio, la capa de presentación podría ser la interfaz gráfica de usuario (GUI) que se muestra en la pantalla. Esta interfaz puede incluir ventanas, menús, botones y otros controles que se utilizan para interactuar con la aplicación. La capa de presentación en este caso se encarga de recibir la entrada del usuario y transmitir esa información a la capa de lógica de negocio de la aplicación, y también de mostrar los resultados de las operaciones realizadas por la capa de lógica de negocio.
+
+En general, la capa de presentación es la interfaz entre el usuario y el resto de la aplicación. Su principal objetivo es proporcionar una experiencia de usuario intuitiva y eficiente, al mismo tiempo que se comunica con el resto de la aplicación para obtener y enviar información de manera adecuada.
